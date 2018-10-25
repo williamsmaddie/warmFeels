@@ -1,0 +1,15 @@
+October 23, 2018
+
+Global warming. Flavor of global warming language over time.
+
+Exploratory analysis: pull a random sample of 100 tweets about climate change
+in the 2 weeks before the un report, and in the 2 weeks after the UN report released.
+
+Procedure: connect to Twitter...,..
+
+
+October 24, 2018
+
+What is it that I'm looking for? Seeds of conversations (i.e. the initial tweet
+that sparks a conversation)? What do I want to see? The indifference vs the fear
+vs the anger...
